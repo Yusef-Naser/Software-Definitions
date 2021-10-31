@@ -134,7 +134,5 @@ class B extends A {
 | 1.  | In inheritance, we define the class which we are inheriting(super class) and most importantly it cannot be changed at runtime  | Whereas in composition we only define a type which we want to use and which can hold its different implementation also it can change at runtime. Hence, Composition is much more flexible than Inheritance. | 
 | 2.  | Here we can only extend one class, in other words more than one class can’t be extended as java do not support multiple inheritance.   | Whereas composition allows to use functionality from different class. |
 | 3. | In inheritance we need parent class in order to test child class. | Composition allows to test the implementation of the classes we are using independent of parent or child class. |
-
 | 4. | Inheritance cannot extend final class.  | Whereas composition allows code reuse even from final classes. |
-
 | 5. | It is an is-a relationship.  | While it is a has-a relationship. |
