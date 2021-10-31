@@ -136,3 +136,12 @@ class B extends A {
 | 3. | In inheritance we need parent class in order to test child class. | Composition allows to test the implementation of the classes we are using independent of parent or child class. |
 | 4. | Inheritance cannot extend final class.  | Whereas composition allows code reuse even from final classes. |
 | 5. | It is an is-a relationship.  | While it is a has-a relationship. |
+
+
+# [CodeSmell](https://www.codegrip.tech/productivity/everything-you-need-to-know-about-code-smells/)
+
+
+# [Runtime vs. Compile Time](https://www.baeldung.com/cs/runtime-vs-compile-time)
+
+
+
