@@ -147,4 +147,10 @@ class B extends A {
 
 # [Atomic Access](https://docs.oracle.com/javase/tutorial/essential/concurrency/atomic.html)
 
-# [] ()
+# [OOP](https://www.freecodecamp.org/news/object-oriented-programming-concepts-21bb035f7260/)
+
+# [OOD](https://science.jrank.org/programming/ObjectOriented_Design_OOD.html)
+
+# [SOLID](https://www.bmc.com/blogs/solid-design-principles/)
+
+
